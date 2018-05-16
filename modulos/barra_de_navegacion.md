@@ -6,7 +6,6 @@
   - Desarrollo
 
 ## Manual de administrador Drupal
-___
 Los menús están ubicados en `admin/structure/menu` para su edición, y se muestran al ser añadidos como bloques en `admin/structure/block`.
 #### Tipos de menús
 1.  **Menú para Móvil**: *navbar-complete-pqr__mobile*
